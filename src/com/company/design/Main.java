@@ -17,7 +17,7 @@ public class Main {
         connect(airAdapter);
     }
 
-    //콘센트
+    //콘센트//
     public static void connect(Electronic110V electronic110V){
         electronic110V.powerOn();
     }
